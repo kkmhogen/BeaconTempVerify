@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/beaconMqttDemo/BeaconMqttClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/beaconMqttDemo/BeaconMqttPushCallback.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/beaconMqttDemo/BeaconPannel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/beaconMqttDemo/FileUtils.java" charset="GBK" />
+  </component>
+</project>
